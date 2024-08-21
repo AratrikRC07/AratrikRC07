@@ -28,4 +28,4 @@
 [![ LeetCode stats](https://leetcode-stats-six.vercel.app/?username=NEWBOT1808)](https://github.com/NEWBOT1808/leetcode-stats)
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aratrikrc&" alt="aratrikrc" /></p>
+
