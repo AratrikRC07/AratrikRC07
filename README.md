@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Some Asp.NET Project Repositories**
 
-- 🤝 I’m looking for help with **Maps ,preferably Leaflet JS**
+- 🤝 I’m looking for help with **Maps , Leaflet JS**
 
 - 💬 Ask me about **.NET,MVC frameworks**
 
