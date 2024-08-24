@@ -1,5 +1,5 @@
 [![MasterHead](https://gifdb.com/images/featured/anime-banner-ymecq20numy17py9.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Aratrik Roy Choudhury</h1>
+<h1 align="center">Hi 👋, I'm Aratrik </h1>
 <h3 align="center">A passionate ASP.NET developer from your Friendly Neighborhood</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif">
 
