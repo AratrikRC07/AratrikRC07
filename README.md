@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on **IDS in healthcare & Millitary**
 
-- 🌱 I’m currently learning **React**
+- 🌱  learning **Entity Framework**
 
-- 👯 I’m looking to collaborate on **Some Asp.NET Project Repositories**
+- 👯 I’m looking to collaborate on **Asp.NET Project Repositories**
 
 - 🤝 I’m looking for help with **Maps , Leaflet JS**
 
-- 💬 Ask me about **.NET,MVC frameworks**
+- 💬 Ask me about **Life?/changing quotes**
 
 
 
