@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact **Lazy Coding Tends to Achieving results in Least Time Complexity**
 
-<h3 align="left">Connect with me: aratrikrc10@gmail.com</h3>
+<h3 align="left">Connect with me: [aratrikrc10\@gmail.com](mailto:aratrikrc10@gmail.com?subject=Test)</h3>
 <p align="left">
 </p>
 
