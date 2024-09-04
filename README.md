@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **.NET,MVC frameworks**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1sZGvPJC_UWJQn32thcIVbHa0PvepTNTU/view](https://drive.google.com/file/d/1sZGvPJC_UWJQn32thcIVbHa0PvepTNTU/view)
+
 
 - ⚡ Fun fact **Lazy Coding Tends to Achieving results in Least Time Complexity**
 
