@@ -19,7 +19,14 @@
 
 - ⚡ Fun fact **Lazy Coding Tends to Achieving results in Least Time Complexity**
 
-<h3 align="left">Connect with me: [aratrikrc10\@gmail.com](mailto:aratrikrc10@gmail.com?subject=Test)</h3>
+<h3 align="left">Connect with me:
+  <div id="badges">
+  <a href="www.linkedin.com/in/aratrik-roy-choudhury-a41345221">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  
+  
+</div>
 <p align="left">
 </p>
 
