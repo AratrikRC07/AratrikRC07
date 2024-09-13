@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aratrikrc&label=Profile%20views&color=0e75b6&style=flat" alt="aratrikrc" /> </p>
 
-- 🔭 I’m currently working on **IDS in healthcare & Millitary**
+- 🔭 I’m currently working on **IDS in healthcare & Millitary Integrating haas Cascades**
 
 - 🌱  learning **Entity Framework**
 
