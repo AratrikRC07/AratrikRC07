@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Maps , Leaflet JS**
 
-- 💬 Ask me about **Life?/changing quotes**
+- 💬 Ask me about **Life?(changing quotes)**
 
 
 
